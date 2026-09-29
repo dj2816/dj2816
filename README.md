@@ -16,7 +16,7 @@
 
 ## Hello / 你好 👋
 
-I’m **Dongxu Jiang** — a builder who enjoys connecting physical systems with software.
+I’m **David (Dongxu) Jiang**, an Electrical Engineering undergraduate at **UC Irvine** and a builder who enjoys connecting physical systems with software.
 
 我喜欢把想法做成真正能运行的东西：从水冷硬件、3D 打印结构到轻量 Web 工具。这里记录的是我的实验、迭代，以及从 “what if?” 到 “it works!” 的过程。
 
@@ -119,15 +119,11 @@ Something new is taking shape. Check back soon—or explore the experiments alre
 
 <div align="center">
   <a href="https://github.com/dj2816">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=dj2816&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github" alt="Dongxu's GitHub stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj2816&theme=github_dark" width="96%" alt="Dongxu's GitHub profile summary" />
   </a>
-  <a href="https://github.com/dj2816?tab=repositories">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj2816&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=94A3B8" alt="Dongxu's most used languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dj2816&bg_color=00000000&color=94A3B8&line=38BDF8&point=8B5CF6&area=true&hide_border=true" width="96%" alt="Dongxu's contribution activity graph" />
+  <br />
+  <a href="https://github.com/dj2816?tab=followers"><img src="https://img.shields.io/github/followers/dj2816?style=for-the-badge&logo=github&color=0EA5E9" alt="GitHub followers" /></a>
+  <a href="https://github.com/dj2816?tab=stars"><img src="https://img.shields.io/github/stars/dj2816?affiliations=OWNER&style=for-the-badge&logo=github&color=8B5CF6" alt="GitHub stars" /></a>
 </div>
 
 <picture>
